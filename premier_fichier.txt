@@ -1,0 +1,75 @@
+Exercice - Vous devez créer un repository Git simple contenant :
+- Au moins 2 autres fichiers de votre choix (ils peuvent contenir des scripts de code, du texte sur un projet personnel...);
+
+
+
+Ceci est un magnifique premier fichier qui contient un texte hyper intéressant.
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Maecenas porttitor sit amet lorem vel venenatis.
+Maecenas et accumsan lorem, eget pharetra leo.
+Curabitur vehicula in justo at mattis.
+Mauris interdum justo et dolor interdum porttitor.
+Aenean condimentum ultrices ex nec dignissim.
+Donec egestas, leo id feugiat pulvinar, tortor lorem convallis est, et pretium magna velit vel augue.
+Sed orci nunc, porta in metus sit amet, porttitor ultrices enim.
+Ut mollis hendrerit urna vitae sagittis.
+Suspendisse enim massa, porta at cursus ut, sollicitudin a arcu.
+Cras at purus eu elit cursus blandit. Fusce ac mauris purus.
+
+Mauris blandit consectetur leo, sed iaculis tortor cursus et.
+Sed pellentesque vitae nisi in vehicula.
+Pellentesque sed libero neque.
+Phasellus est diam, facilisis vel dignissim sed, sodales eget magna.
+Sed posuere est eu enim lobortis varius.
+Aliquam diam elit, tristique quis orci ut, tincidunt porta felis.
+Cras pulvinar sapien at tincidunt pharetra.
+Sed tempor tincidunt ante, nec consectetur nulla viverra vel.
+Quisque cursus lectus pretium libero placerat, eu consectetur augue maximus.
+Ut at elit id justo condimentum ultricies auctor non quam.
+In eget diam lectus.
+Nulla lobortis, arcu in iaculis interdum, est urna feugiat mauris, dictum sagittis sapien tortor at nulla.
+Duis facilisis elit non nibh ultricies tempor.
+Nam vitae sapien sed nulla gravida convallis fermentum in felis.
+Aenean quis justo varius, aliquam nulla eget, scelerisque enim.
+Ut facilisis ante diam, non tristique nunc tincidunt eget.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Cras dapibus ut tellus sed placerat.
+Mauris imperdiet ipsum nec mauris rhoncus, sit amet congue sem dictum.
+Mauris vel tincidunt nulla.
+Integer nec hendrerit nibh, vitae blandit mi.
+Phasellus vel lorem nec mauris consequat mollis in vitae urna.
+Donec rutrum urna non iaculis hendrerit.
+Nullam in nunc sollicitudin, pharetra velit eget, tristique felis.
+Duis sodales lectus diam, ut aliquet ligula dictum sit amet.
+Quisque pretium, orci eget venenatis pellentesque, quam metus efficitur urna, vitae suscipit magna nulla in nisi.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Maecenas dictum mi lorem, eget ornare nibh hendrerit ac.
+Etiam non nunc ut augue lobortis bibendum in vel erat.
+Vestibulum vel egestas ipsum.
+
+Nullam feugiat facilisis tellus, nec tincidunt odio auctor dictum.
+Quisque suscipit porta neque ornare suscipit.
+Vestibulum facilisis, urna sed imperdiet cursus, elit elit interdum est, ac consectetur enim quam id dui.
+Etiam nec lectus porttitor, scelerisque tellus quis, euismod eros.
+Ut efficitur at elit eget ullamcorper.
+Nulla sem lacus, vestibulum a arcu a, tempus hendrerit est. Duis at felis vehicula, lacinia turpis vitae, congue lacus.
+Integer tempus, augue ut dignissim vehicula, elit quam vestibulum odio, sed tincidunt ligula velit eu dui.
+Proin quis volutpat sem. Nulla ut lobortis nisi.
+Nunc tristique metus quis sapien tempor iaculis.
+Vivamus et malesuada eros, eu congue nisl.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Nullam pulvinar tempor enim in aliquam.
+Sed dui tellus, pretium quis ipsum eu, condimentum vestibulum dui.
+Sed ultrices molestie felis, a viverra tortor consectetur ut.
+
+Maecenas scelerisque vulputate quam, ac tempus orci aliquam id.
+Quisque imperdiet risus eget ante vestibulum aliquam eget in ipsum.
+Suspendisse ultricies mollis venenatis.
+Integer justo leo, tristique a bibendum non, luctus nec augue.
+Pellentesque nulla mauris, elementum nec mauris at, ornare congue est.
+Maecenas in tortor quis ligula pulvinar pretium. 
+Quisque bibendum mattis elit sed posuere. 
