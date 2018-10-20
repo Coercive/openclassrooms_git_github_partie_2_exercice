@@ -1,0 +1,59 @@
+Exercice - Vous devez créer un repository Git simple contenant :
+- Au moins 2 autres fichiers de votre choix (ils peuvent contenir des scripts de code, du texte sur un projet personnel...);
+
+
+
+Voici le deuxième fichier pour l'exerice, avec un contenu encore plus intéressant que le premier.
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec tempus nisl a mauris laoreet, id mattis erat dictum.
+Aenean gravida varius ipsum, quis lobortis nulla elementum non.
+Pellentesque vel enim mi. In semper sem libero, in venenatis justo elementum a.
+Nunc bibendum tellus sit amet dui molestie malesuada.
+Cras id orci imperdiet, tristique odio commodo, ultrices orci.
+Curabitur iaculis arcu metus, quis placerat ex consequat vel. Pellentesque a ligula sed eros euismod ultrices et vitae nisi.
+
+Quisque ornare vestibulum finibus.
+Nullam venenatis odio nisl, a blandit ex commodo eget.
+Sed eu magna odio.
+Fusce fermentum urna sed ex egestas, eget laoreet lectus aliquam.
+Aenean vitae ex nec quam consectetur ornare.
+Nulla enim erat, convallis id massa et, facilisis maximus nisi.
+Fusce tristique mi eleifend pellentesque aliquet.
+Phasellus vitae metus nunc.
+Etiam eget malesuada sapien.
+
+Aenean facilisis efficitur nisi, eu aliquam arcu posuere eu.
+In luctus, ante rhoncus consectetur elementum, sem nisi pharetra nulla, at bibendum enim lectus quis orci.
+Ut eleifend a leo id vestibulum.
+Nulla sed urna vel massa volutpat congue at nec quam.
+Cras ac risus ut libero iaculis posuere at ut velit.
+Vivamus euismod imperdiet ligula sit amet dictum.
+Mauris vel nulla at orci finibus bibendum.
+Curabitur condimentum aliquet ante vel porttitor.
+Quisque lorem dolor, fringilla sed eros fermentum, tincidunt porttitor risus.
+Sed sodales augue sed nulla varius varius.
+
+Nunc tincidunt mauris vitae ultrices scelerisque.
+Suspendisse tincidunt, arcu sed rhoncus molestie, purus nulla semper nisl, non fermentum ligula ligula ac erat.
+Quisque volutpat quis nisl vel hendrerit.
+Proin eros elit, varius ut tortor eget, convallis dapibus lectus.
+Suspendisse feugiat enim magna, ac efficitur enim lobortis sit amet.
+Sed ante mi, interdum id mauris non, bibendum semper velit.
+Maecenas placerat, dolor at porttitor finibus, metus mauris viverra sapien, ac condimentum nunc risus non libero.
+Integer gravida eu est vitae pulvinar.
+Pellentesque nec diam ante.
+Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Proin dapibus, odio sed condimentum aliquet, lorem nunc elementum felis, eget sodales erat lectus a justo.
+Mauris condimentum rutrum sem sit amet consequat.
+
+Nulla facilisi.
+Integer eget bibendum quam.
+Fusce condimentum, ex nec posuere faucibus, justo mi rutrum elit, ut lacinia libero magna id tortor.
+Nullam commodo facilisis enim, laoreet viverra tellus suscipit ac.
+Sed et lacinia ex.
+Mauris dignissim nisl ut sem aliquet, vel rutrum diam auctor.
+Mauris non dolor massa.
+Suspendisse potenti. 
